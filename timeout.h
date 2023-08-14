@@ -31,7 +31,7 @@
 
 #include <inttypes.h>   /* PRIu64 PRIx64 PRIX64 uint64_t */
 
-#include <sys/queue.h>  /* TAILQ(3) */
+#include <queue.h>  /* TAILQ(3) */
 
 
 /*

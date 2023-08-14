@@ -35,7 +35,7 @@
 
 #include <errno.h>     /* errno */
 
-#include <sys/queue.h> /* TAILQ(3) */
+#include <queue.h> /* TAILQ(3) */
 
 #include "timeout.h"
 
